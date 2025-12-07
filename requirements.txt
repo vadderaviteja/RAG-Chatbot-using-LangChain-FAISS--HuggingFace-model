@@ -1,0 +1,8 @@
+langchain 
+langchain-core 
+langchain-community 
+python-dotenv 
+langchain-text-splitters
+pypdf
+langchain-huggingface
+faiss-cpu
